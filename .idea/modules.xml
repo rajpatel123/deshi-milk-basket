@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/deshi-milk-basket.iml" filepath="$PROJECT_DIR$/deshi-milk-basket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesiMilk.iml" filepath="$PROJECT_DIR$/DesiMilk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
